@@ -30,4 +30,4 @@ This is a responsive blog post layout inspired by modern magazine websites. It w
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/responsive-code-magazine-blog.git
+git clone https://github.com/nandshiv/minimal-blog-css-grid-flexbox-layout.git
